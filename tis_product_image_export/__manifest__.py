@@ -3,15 +3,15 @@
 # - © Technaureus Info Solutions Pvt. Ltd 2019. All rights reserved.
 
 {
-    'name': 'Product Image Export',
+    'name': 'Product Image Export UCS',
     'version': '17.0.1.0.0',
     'sequence': 1,
     'category': 'Inventory',
     'summary': 'Product Image Export',
     'author': 'Technaureus Info Solutions Pvt. Ltd.',
     'website': 'http://www.technaureus.com/',
-    'price': 8,
-    'currency': 'EUR',
+    'price': 25,
+    'currency': 'USD',
     'license': 'Other proprietary',
     'description': """Product Image Export
         """,
