@@ -8,7 +8,7 @@
 #
 ##############################################################################
 {
-    "name": 'Product Image Export',
+    "name": 'Product Image Export UCS',
     "version": '18.0.1.0.0',
     "sequence": 1,
     "category": 'Inventory',
@@ -30,4 +30,6 @@
     'installable': True,
     'application': True,
     'auto_install': False,
+    "price":25.00,
+    "currency":'USD',
 }
